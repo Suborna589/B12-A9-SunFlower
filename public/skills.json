@@ -1,0 +1,111 @@
+[
+  {
+    "skillId": 1,
+    "skillName": "Basic Web Development",
+    "providerName": "Rahim Uddin",
+    "providerEmail": "rahim@skillswap.com",
+    "price": 25,
+    "rating": 4.7,
+    "slotsAvailable": 4,
+    "description": "Learn HTML, CSS, and JavaScript from scratch.",
+    "image": "https://i.postimg.cc/example3.png",
+    "category": "Technology"
+  },
+  {
+    "skillId": 2,
+    "skillName": "Yoga for Beginners",
+    "providerName": "Anika Das",
+    "providerEmail": "anika@skillswap.com",
+    "price": 15,
+    "rating": 4.5,
+    "slotsAvailable": 6,
+    "description": "Relaxing yoga sessions for beginners.",
+    "image": "https://i.postimg.cc/example4.png",
+    "category": "Health"
+  },
+  {
+    "skillId": 3,
+    "skillName": "Graphic Design Basics",
+    "providerName": "Tanvir Hasan",
+    "providerEmail": "tanvir@skillswap.com",
+    "price": 30,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "Learn Photoshop and Illustrator fundamentals.",
+    "image": "https://i.postimg.cc/example5.png",
+    "category": "Design"
+  },
+  {
+    "skillId": 4,
+    "skillName": "Cooking Traditional Dishes",
+    "providerName": "Fatema Begum",
+    "providerEmail": "fatema@skillswap.com",
+    "price": 18,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "Learn to cook delicious homemade meals.",
+    "image": "https://i.postimg.cc/example6.png",
+    "category": "Cooking"
+  },
+  {
+    "skillId": 5,
+    "skillName": "Photography Essentials",
+    "providerName": "Nabil Ahmed",
+    "providerEmail": "nabil@skillswap.com",
+    "price": 22,
+    "rating": 4.7,
+    "slotsAvailable": 3,
+    "description": "Basics of camera handling and composition.",
+    "image": "https://i.postimg.cc/example7.png",
+    "category": "Photography"
+  },
+  {
+    "skillId": 6,
+    "skillName": "Public Speaking Skills",
+    "providerName": "Mariam Khan",
+    "providerEmail": "mariam@skillswap.com",
+    "price": 20,
+    "rating": 4.8,
+    "slotsAvailable": 4,
+    "description": "Improve confidence and communication skills.",
+    "image": "https://i.postimg.cc/example8.png",
+    "category": "Personal Development"
+  },
+  {
+    "skillId": 7,
+    "skillName": "Mathematics Tutoring",
+    "providerName": "Shahid Islam",
+    "providerEmail": "shahid@skillswap.com",
+    "price": 12,
+    "rating": 4.4,
+    "slotsAvailable": 6,
+    "description": "Help with school-level math concepts.",
+    "image": "https://i.postimg.cc/example9.png",
+    "category": "Education"
+  },
+  {
+    "skillId": 8,
+    "skillName": "Digital Marketing Basics",
+    "providerName": "Rima Sultana",
+    "providerEmail": "rima@skillswap.com",
+    "price": 28,
+    "rating": 4.7,
+    "slotsAvailable": 3,
+    "description": "Learn SEO, social media marketing, and ads.",
+    "image": "https://i.postimg.cc/example10.png",
+    "category": "Business"
+  },
+
+  {
+    "skillId": 10,
+    "skillName": "Drawing and Sketching",
+    "providerName": "Lamia Rahman",
+    "providerEmail": "lamia@skillswap.com",
+    "price": 16,
+    "rating": 4.5,
+    "slotsAvailable": 5,
+    "description": "Learn basic drawing and sketching techniques.",
+    "image": "https://i.postimg.cc/example12.png",
+    "category": "Art"
+  }
+]
