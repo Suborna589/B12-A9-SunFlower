@@ -1,5 +1,6 @@
 import { createBrowserRouter } from "react-router";
 import HomeLayouts from "../Layouts/HomeLayouts";
+import PopularSkill from "../components/Header.jsx/PopularSkill/PopularSkill";
 
 const router = createBrowserRouter([
 
@@ -15,8 +16,9 @@ const router = createBrowserRouter([
     }, 
 
     {
-        path:'/skill',
-        element: <h2></h2>
+        path:'/skills',
+        element: <PopularSkill></PopularSkill>,
+        loader:()=>fetch('/skills.json'),
     }
 ]) 
 
